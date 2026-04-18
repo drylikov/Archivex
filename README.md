@@ -1,4 +1,4 @@
-Archiv
+Archiv.
 ========
 
 archivex is a golang package that archives folders (recursively) and files to zip and tar formats.
